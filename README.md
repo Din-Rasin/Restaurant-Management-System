@@ -47,9 +47,9 @@ Customize this depending on your tech stack:
 | Layer    | Technology                               |
 | -------- | ---------------------------------------- |
 | Frontend | HTML, CSS, JavaScript, Bootstrap / React |
-| Backend  | PHP / Node.js / Python (Flask/Django)    |
-| Database | MySQL / PostgreSQL / SQLite              |
-| Others   | AJAX, jQuery, Chart.js, Print.js         |
+| Backend  | PHP / Node.js     |
+| Database | MySQL / SQLite              |
+| Others   | AJAX, jQuery       |
 
 ---
 
