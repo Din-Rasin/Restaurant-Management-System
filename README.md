@@ -1,78 +1,83 @@
 
----
-## 🍽️ Restaurant Management System
 
-The **Restaurant Management System** is a web application for managing menus, orders, tables, billing, staff, and reporting—suitable for full-service restaurants, cafes, and small chains.
+## 🖼️ System Screenshot Gallery
 
----
-
-### 📷 Demo Screenshots
-
-Visualize the system workflow from login to reporting. Each screenshot corresponds to a specific module or role.
-
-#### 🔑 Login Page
-
-```html
-<p align="center">
-  <img src="[URL_OF_YOUR_LOGIN_SCREEN]" width="600" alt="Login page for Admin/Staff"/>
-  <br/><em>User login screen for admin and staff access</em>
-</p>
-```
-
-#### 🧑‍💼 Admin Dashboard
-
-```html
-<p align="center">
-  <img src="[URL_OF_ADMIN_DASHBOARD]" width="600" alt="Admin Dashboard"/>
-  <br/><em>Dashboard overview: sales, orders, table status.</em>
-</p>
-```
-
-#### 🍔 Menu & Table Management
-
-```html
-<p align="center">
-  <img src="[URL_OF_MENU_MANAGEMENT]" width="600" alt="Menu Management"/>
-  <br/><em>Edit menus, categorize items, manage availability</em>
-  <img src="[URL_OF_TABLE_LAYOUT]" width="600" alt="Table Reservation"/>
-  <br/><em>Visual table layout and reservation interface</em>
-</p>
-```
-
-#### 📋 Order & Billing
-
-```html
-<p align="center">
-  <img src="[URL_OF_ORDER_SCREEN]" width="600" alt="Order placement"/>
-  <br/><em>Waiter interface for placing and managing orders</em>
-  <img src="[URL_OF_BILL_SCREEN]" width="600" alt="Billing and invoice"/>
-  <br/><em>Invoice generation with payment, tax, discount features</em>
-</p>
-```
-
-#### 👨‍🍳 Kitchen Display
-
-```html
-<p align="center">
-  <img src="[URL_OF_KITCHEN_DASHBOARD]" width="600" alt="Kitchen display"/>
-  <br/><em>Kitchen staff view for live order updates</em>
-</p>
-```
-
-#### 📊 Reports & Analytics
-
-```html
-<p align="center">
-  <img src="[URL_OF_REPORTS_SCREEN]" width="600" alt="Sales Reports"/>
-  <br/><em>Sales and item analytics by date range</em>
-</p>
-```
+Explore the visual representation of the **Restaurant Management System** through categorized screenshots. These images showcase various modules and user roles within the system.
 
 ---
 
+### 🔐 Login & Dashboard
 
+* **Login Page** <br><img src="https://github.com/Din-Rasin/Restaurant-Management-System/blob/main/View%20Picture%20Demo%20Restaurant%20Management%20System/Screenshot%202025-05-21%20005755.png" alt="Login Page" width="100%">
+
+* **Admin Dashboard Overview** <br><img src="https://github.com/Din-Rasin/Restaurant-Management-System/blob/main/View%20Picture%20Demo%20Restaurant%20Management%20System/Screenshot%202025-05-21%20015834.png" alt="Dashboard" width="100%">
 
 ---
+
+### 🍽️ Menu & Food Management
+
+* **Food Categories** <br><img src="https://github.com/Din-Rasin/Restaurant-Management-System/blob/main/View%20Picture%20Demo%20Restaurant%20Management%20System/Screenshot%202025-05-21%20024205.png" alt="Food Categories">
+
+* **Menu List View** <br><img src="https://github.com/Din-Rasin/Restaurant-Management-System/blob/main/View%20Picture%20Demo%20Restaurant%20Management%20System/Screenshot%202025-05-21%20024221.png" alt="Menu List">
+
+* **Add New Menu Item** <br><img src="https://github.com/Din-Rasin/Restaurant-Management-System/blob/main/View%20Picture%20Demo%20Restaurant%20Management%20System/Screenshot%202025-05-21%20024239.png" alt="Add Menu Item">
+
+* **Edit Menu Item** <br><img src="https://github.com/Din-Rasin/Restaurant-Management-System/blob/main/View%20Picture%20Demo%20Restaurant%20Management%20System/Screenshot%202025-05-21%20024253.png" alt="Edit Menu Item">
+
+---
+
+### 🧾 Orders & Billing
+
+* **Create Order View** <br><img src="https://github.com/Din-Rasin/Restaurant-Management-System/blob/main/View%20Picture%20Demo%20Restaurant%20Management%20System/Screenshot%202025-05-21%20024329.png">
+
+* **Order List View** <br><img src="https://github.com/Din-Rasin/Restaurant-Management-System/blob/main/View%20Picture%20Demo%20Restaurant%20Management%20System/Screenshot%202025-05-21%20024344.png">
+
+* **View Bill / Invoice** <br><img src="https://github.com/Din-Rasin/Restaurant-Management-System/blob/main/View%20Picture%20Demo%20Restaurant%20Management%20System/Screenshot%202025-05-21%20024407.png">
+
+---
+
+### 🪑 Table Management
+
+* **Add/Edit Tables** <br><img src="https://github.com/Din-Rasin/Restaurant-Management-System/blob/main/View%20Picture%20Demo%20Restaurant%20Management%20System/Screenshot%202025-05-21%20024415.png">
+
+* **Table Status View** <br><img src="https://github.com/Din-Rasin/Restaurant-Management-System/blob/main/View%20Picture%20Demo%20Restaurant%20Management%20System/Screenshot%202025-05-21%20024423.png">
+
+---
+
+### 📦 Inventory & Ingredients
+
+* **Ingredient List** <br><img src="https://github.com/Din-Rasin/Restaurant-Management-System/blob/main/View%20Picture%20Demo%20Restaurant%20Management%20System/Screenshot%202025-05-21%20024431.png">
+
+* **Stock Management** <br><img src="https://github.com/Din-Rasin/Restaurant-Management-System/blob/main/View%20Picture%20Demo%20Restaurant%20Management%20System/Screenshot%202025-05-21%20024440.png">
+
+---
+
+### 👥 Staff & Roles
+
+* **Staff Management** <br><img src="https://github.com/Din-Rasin/Restaurant-Management-System/blob/main/View%20Picture%20Demo%20Restaurant%20Management%20System/Screenshot%202025-05-21%20024448.png">
+
+* **Add Staff Member** <br><img src="https://github.com/Din-Rasin/Restaurant-Management-System/blob/main/View%20Picture%20Demo%20Restaurant%20Management%20System/Screenshot%202025-05-21%20024459.png">
+
+---
+
+### 📊 Reporting & Feedback
+
+* **Sales Report** <br><img src="https://github.com/Din-Rasin/Restaurant-Management-System/blob/main/View%20Picture%20Demo%20Restaurant%20Management%20System/Screenshot%202025-05-21%20024509.png">
+
+* **Customer Feedback** <br><img src="https://github.com/Din-Rasin/Restaurant-Management-System/blob/main/View%20Picture%20Demo%20Restaurant%20Management%20System/Screenshot%202025-05-21%20024518.png">
+
+---
+
+### 🔒 Roles-Based UI Examples
+
+* **Waiter Interface** <br><img src="https://github.com/Din-Rasin/Restaurant-Management-System/blob/main/View%20Picture%20Demo%20Restaurant%20Management%20System/Screenshot%202025-05-21%20024534.png">
+
+* **Cashier Dashboard** <br><img src="https://github.com/Din-Rasin/Restaurant-Management-System/blob/main/View%20Picture%20Demo%20Restaurant%20Management%20System/Screenshot%202025-05-21%20024543.png">
+
+* **Manager Reports Panel** <br><img src="https://github.com/Din-Rasin/Restaurant-Management-System/blob/main/View%20Picture%20Demo%20Restaurant%20Management%20System/Screenshot%202025-05-21%20024600.png">
+
+---
+
 ## 🍽️ Restaurant Management System
 
 The **Restaurant Management System** is a full-featured application built to help restaurants efficiently handle operations such as order management, table booking, billing, inventory tracking, and staff management. This system is ideal for small to medium-sized restaurants aiming to digitize their daily processes.
