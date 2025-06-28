@@ -2,6 +2,79 @@
 ---
 ## 🍽️ Restaurant Management System
 
+The **Restaurant Management System** is a web application for managing menus, orders, tables, billing, staff, and reporting—suitable for full-service restaurants, cafes, and small chains.
+
+---
+
+### 📷 Demo Screenshots
+
+Visualize the system workflow from login to reporting. Each screenshot corresponds to a specific module or role.
+
+#### 🔑 Login Page
+
+```html
+<p align="center">
+  <img src="[URL_OF_YOUR_LOGIN_SCREEN]" width="600" alt="Login page for Admin/Staff"/>
+  <br/><em>User login screen for admin and staff access</em>
+</p>
+```
+
+#### 🧑‍💼 Admin Dashboard
+
+```html
+<p align="center">
+  <img src="[URL_OF_ADMIN_DASHBOARD]" width="600" alt="Admin Dashboard"/>
+  <br/><em>Dashboard overview: sales, orders, table status.</em>
+</p>
+```
+
+#### 🍔 Menu & Table Management
+
+```html
+<p align="center">
+  <img src="[URL_OF_MENU_MANAGEMENT]" width="600" alt="Menu Management"/>
+  <br/><em>Edit menus, categorize items, manage availability</em>
+  <img src="[URL_OF_TABLE_LAYOUT]" width="600" alt="Table Reservation"/>
+  <br/><em>Visual table layout and reservation interface</em>
+</p>
+```
+
+#### 📋 Order & Billing
+
+```html
+<p align="center">
+  <img src="[URL_OF_ORDER_SCREEN]" width="600" alt="Order placement"/>
+  <br/><em>Waiter interface for placing and managing orders</em>
+  <img src="[URL_OF_BILL_SCREEN]" width="600" alt="Billing and invoice"/>
+  <br/><em>Invoice generation with payment, tax, discount features</em>
+</p>
+```
+
+#### 👨‍🍳 Kitchen Display
+
+```html
+<p align="center">
+  <img src="[URL_OF_KITCHEN_DASHBOARD]" width="600" alt="Kitchen display"/>
+  <br/><em>Kitchen staff view for live order updates</em>
+</p>
+```
+
+#### 📊 Reports & Analytics
+
+```html
+<p align="center">
+  <img src="[URL_OF_REPORTS_SCREEN]" width="600" alt="Sales Reports"/>
+  <br/><em>Sales and item analytics by date range</em>
+</p>
+```
+
+---
+
+
+
+---
+## 🍽️ Restaurant Management System
+
 The **Restaurant Management System** is a full-featured application built to help restaurants efficiently handle operations such as order management, table booking, billing, inventory tracking, and staff management. This system is ideal for small to medium-sized restaurants aiming to digitize their daily processes.
 
 ---
