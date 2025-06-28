@@ -7,11 +7,6 @@ Explore the visual representation of the **Restaurant Management System** throug
 ---
 
 ### 🔐 Login & Dashboard
-
-* **Login Page** <br><img src="https://github.com/Din-Rasin/Restaurant-Management-System/blob/main/View%20Picture%20Demo%20Restaurant%20Management%20System/Screenshot%202025-05-21%20005755.png" alt="Login Page" width="100%">
-
-* **Admin Dashboard Overview** <br><img src="https://github.com/Din-Rasin/Restaurant-Management-System/blob/main/View%20Picture%20Demo%20Restaurant%20Management%20System/Screenshot%202025-05-21%20015834.png" alt="Dashboard" width="100%">
-
 ---
 
 ### 🍽️ Menu & Food Management
