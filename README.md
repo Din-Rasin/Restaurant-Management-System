@@ -1,14 +1,9 @@
 
 
 ## 🖼️ System Screenshot Gallery
-
-Explore the visual representation of the **Restaurant Management System** through categorized screenshots. These images showcase various modules and user roles within the system.
-
 ---
-
 ### 🔐 Login & Dashboard
 ---
-
 ### 🍽️ Menu & Food Management
 
 * **Food Categories** <br><img src="https://github.com/Din-Rasin/Restaurant-Management-System/blob/main/View%20Picture%20Demo%20Restaurant%20Management%20System/Screenshot%202025-05-21%20024205.png" alt="Food Categories">
